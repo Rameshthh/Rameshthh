@@ -11,8 +11,3 @@ This project is an implementation of the A* algorithm, a widely used pathfinding
   
 **Contact:**
 For any inquiries or feedback, please contact [sharmaraamesht@gmail.com].
-
-**References:**
-- [Wikipedia - A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-- [Red Blob Games - A* Pathfinding Tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-- [Stanford CS 221 - A* Algorithm Lecture Notes](https://stanford.edu/class/cs221/lectures/lecture10.pdf)
