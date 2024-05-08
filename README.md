@@ -9,13 +9,6 @@ This project is an implementation of the A* algorithm, a widely used pathfinding
 - **Customizable:** The implementation allows customization of heuristic functions and cost functions to adapt to different problem domains.
 - **Visualization:** Includes visualization tools to demonstrate how the algorithm traverses the graph or grid, aiding in understanding its operation.
   
-**Dependencies:**
-- Python 3.x
-- Matplotlib (for visualization)
-  
-**License:**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 **Contact:**
 For any inquiries or feedback, please contact [sharmaraamesht@gmail.com].
 
